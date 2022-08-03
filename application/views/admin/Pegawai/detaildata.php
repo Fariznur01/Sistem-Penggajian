@@ -4,7 +4,7 @@
     <div class="d-sm-flex align-items-center justify-content-between mb-4">
         <h1 class="h3 mb-0 text-gray-800"><?= $title; ?></h1>
     </div>
-    <div class="card" style="margin-bottom: 120px; width: 45%;">
+    <div class="card" style="margin-bottom: 120px; width: 61%;">
         <div class="card-header font-weight-bold bg-primary text-white ">
             Data Pegawai
         </div>

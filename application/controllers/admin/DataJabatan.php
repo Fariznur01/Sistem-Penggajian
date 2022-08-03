@@ -128,7 +128,7 @@ class DataJabatan extends CI_Controller
   }
   public function printData()
   {
-    $data['title'] = "Cetak Data Pegawai";
+    $data['title'] = "Cetak Data Jabaatan";
     $data['jabatan'] = $this->penggajianModel->get_data('data_jabatan')->result();
     $this->load->view('templates_admin/header', $data);
     $this->load->view('admin/Jabatan/cetakdatajabatan');

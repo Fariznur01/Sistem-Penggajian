@@ -1,5 +1,5 @@
 <!-- Begin Page Content -->
-<div class="container-fluid" style="min-height: 700px;">
+<div class="container-fluid" style="margin-bottom: 100px;">
 
   <!-- Page Heading -->
   <div class="d-sm-flex align-items-center justify-content-between mb-4">
@@ -63,7 +63,7 @@
   </div>
 
   <form action="" method="post">
-    <button class="btn btn-success mb-3" type="submit" name="submit" value="submit">Simpan</button>
+    <button class="btn btn-success mt-3  mb-4 " type="submit" name="submit" value="submit">Simpan</button>
     <table class="table table-bordered table-striped">
       <tr>
         <td class="text-center">No</td>
@@ -71,10 +71,10 @@
         <td class="text-center">Nama Pegawai</td>
         <td class="text-center">Jenis Kelamin</td>
         <td class="text-center">Jabatan</td>
-        <td class="text-center" width="8%;">Hadir</td>
-        <td class="text-center" width="8%;">Sakit</td>
-        <td class="text-center" width="8%;">Izin</td>
-        <td class="text-center" width="8%;">Alpha</td>
+        <td class="text-center" width="10%;">Hadir</td>
+        <td class="text-center" width="10%;">Sakit</td>
+        <td class="text-center" width="10%;">Izin</td>
+        <td class="text-center" width="10%;">Alpha</td>
       </tr>
 
       <?php

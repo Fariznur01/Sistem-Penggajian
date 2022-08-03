@@ -1,6 +1,6 @@
 <!-- Begin Page Content -->
-<div class="container-fluid">
-  <div class="card mx-auto" style="width: 45%;">
+<div class="container-fluid" style="margin-bottom: 100px;">
+  <div class=" card mx-auto" style="width: 55%;">
     <div class="card-header bg-primary text-white text-center">
       Filter Laporan Gaji Pegawai
     </div>

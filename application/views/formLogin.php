@@ -45,9 +45,10 @@
                     <hr>
                     <button type="submit" class="btn btn-primary btn-user btn-block">Login</button>
                   </form>
+                  <!--
                   <div class="text-center mt-3">
-                    <a class="small" href="<?= base_url('welcome/forgotpassword'); ?>">Forgot Password?</a>
-                  </div>
+                    <a class="small" href="">Forgot Password?</a>
+                  </div>-->
                 </div>
               </div>
             </div>

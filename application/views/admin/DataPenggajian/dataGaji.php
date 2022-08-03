@@ -84,10 +84,9 @@
   <div class="alert alert-info">
     Menampilkan data gaji pegawai bulan: <span class="font-weight-bold"><?= $bulan; ?></span> tahun: <span class="font-weight-bold"><?= $tahun; ?></span>
   </div>
-
+  <?php /*jika data $gaji maka muncul*/ ?>
   <?php
   $jml_data = count($gaji);
-  #jika data $gaji maka muncul
   if ($jml_data > 0) { ?>
 
     <div class="table-responsive">
@@ -111,7 +110,8 @@
         <?php
         $no = 1;
         foreach ($gaji as $g) : ?>
-          #untuk potongan gaji
+          <?php   #untuk potongan gaji 
+          ?>
           <?php $potongan = $g->alpha * $alpha; ?>
           <tr>
             <td><?= $no++; ?></td>
@@ -123,7 +123,8 @@
             <td>Rp. <?= number_format($g->tj_transport, 0, ',', '.'); ?>,-</td>
             <td>Rp. <?= number_format($g->uang_makan, 0, ',', '.'); ?>,-</td>
             <td>Rp. <?= number_format($potongan, 0, ',', '.'); ?>,-</td>
-            #jumlahkan seluruh gaji
+            <?php    #jumlahkan seluruh gaji 
+            ?>
             <?php $total_gaji = $g->gaji_pokok + $g->tj_transport + $g->uang_makan - $potongan; ?>
             <td>Rp. <?= number_format($total_gaji, 0, ',', '.'); ?>,-</td>
           </tr>
@@ -131,7 +132,8 @@
         <?php endforeach; ?>
       </table>
     </div>
-    #jika data $gaji tidak ada
+    <?php     #jika data $gaji tidak ada
+    ?>
   <?php } else { ?>
     <span class="badge badge-danger"><i class="fas fa-info-circle"></i> Data masih kosong, silahkan input data kehadiran pada bulan dan tahun yang anda pilih!</span>
   <?php } ?>

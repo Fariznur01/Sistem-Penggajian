@@ -6,7 +6,7 @@
     <h1 class="h3 mb-0 text-gray-800"><?= $title; ?></h1>
   </div>
 
-  <div class="alert alert-success font-weight-bold mb-4" style="width:65%;">
+  <div class="alert alert-success font-weight-bold mb-4" style="width:100%;">
     Selamat datang, Anda login sebagai pegawai
   </div>
   <div class="card" style="margin-bottom: 120px; width: auto;">
@@ -17,7 +17,7 @@
       <div class="card-body">
         <div class="row">
           <div class="col-md-5">
-            <img style="width: 32rem" src="<?= base_url('assets/photo/' . $p->photo); ?>" alt="">
+            <img style="width: 350px" height="690" src="<?= base_url('assets/photo/' . $p->photo); ?>" alt="">
           </div>
           <div class="col-md-7">
             <table class="table">

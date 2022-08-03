@@ -14,7 +14,7 @@
     <button type="submit" class="btn btn-success mt-2">Cari Nama </button>
     <?php echo form_close(); ?>
   </div>
-  <table class="table table-striped table-bordered">
+  <table class="table table-striped table-bordered ">
     <tr>
       <th class="text-center">No</th>
       <th class="text-center">NIP</th>
@@ -25,7 +25,7 @@
       <th class="text-center">Status</th>
       <!--<th class="text-center">Photo</th>-->
       <th class="text-center">Hak Akses</th>
-      <th class="text-center">Action</th>
+      <th class="text-center" width="150">Action</th>
     </tr>
     <?php $no = 1;
     foreach ($pegawai as $p) : ?>

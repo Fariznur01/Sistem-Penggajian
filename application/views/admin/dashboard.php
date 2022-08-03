@@ -84,7 +84,7 @@
               <div class="card-body">
                 <!-- Peta dengan https://google-map-generator.com/ -->
                 <class="embed-responsive embed-responsive-16by9">
-                  <iframe width="1000" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Jl.%20Letnan%20Jenderal%20S.%20Parman%20No.38%20A,%20Bendungan,%20Kec.%20Gajahmungkur,%20Kota%20Semarang,%20Jawa%20Tengah%2050231&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder=" 0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                  <iframe width="850" height="300" id="gmap_canvas" src="https://maps.google.com/maps?q=Jl.%20Letnan%20Jenderal%20S.%20Parman%20No.38%20A,%20Bendungan,%20Kec.%20Gajahmungkur,%20Kota%20Semarang,%20Jawa%20Tengah%2050231&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder=" 0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 
               </div>
             </div>
