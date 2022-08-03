@@ -1,3 +1,5 @@
+Aplikasi Sistem Penggajian Pegawai 
+Mengembangkan Aplikasi berbasis website penggajian karyawan yang dapat mempermudah untuk membuat laporan penggajian. Untuk user ada 2 yaitu admin dan user.
 ###################
 What is CodeIgniter
 ###################
