@@ -1,2 +1,0 @@
-# Portofolio
-# Sistem-Penggajian
