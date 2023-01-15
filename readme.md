@@ -9,7 +9,8 @@
 <a name="readme-top"></a>
 <br>
 
-[![Xampp 3.3.0](https://img.shields.io/badge/xampp-3.3.0-orange.svg)]()
+[![Xampp 5.1.1](https://img.shields.io/badge/xampp-5.1.1-orange.svg)]()
+[![Php 7.3.29](https://img.shields.io/badge/php-7.3.29-blue.svg)]()
 [![CodeIgniter 3](https://img.shields.io/badge/codeigniter-3-lightsalmon.svg)]()
 [![Visual Code 1.74.3](https://img.shields.io/badge/visualcode-1.74.3-blue.svg)]()
 
@@ -50,7 +51,8 @@ Struktur Databse
 
 <br>
 
-![DB2](https://user-images.githubusercontent.com/87837561/212535166-9cd23e43-021a-4813-8246-f1c87b1e7a1f.png)
+![DB](https://user-images.githubusercontent.com/87837561/212536711-78858bc9-cc6b-49f5-84d6-01e265aca5b9.png)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,7 +114,8 @@ Laporan Gaji Pegawai
 <br>
 
 Cetak Gaji Pegawai
-![Slip Gaji 2](https://user-images.githubusercontent.com/87837561/212536335-b98672ac-044d-4286-bcd0-4e277505e95b.png)
+![Daftar Gaji Pegawai 2](https://user-images.githubusercontent.com/87837561/212536540-a887b5c7-42e9-4c5c-b10e-945cd3b2ef7b.png)
+
 
 <br>
 
@@ -123,8 +126,6 @@ Laporan Absensi Pegawai
 
 Cetak Absensi Gaji Pegawai
 ![Lapor Absen 2](https://user-images.githubusercontent.com/87837561/212535583-7d4408e2-2443-4e5e-9b5b-74f6797f2a56.png)
-
-<br>
 
 Dashboard Login sebagai Pegawai
 ![Halaman Dashboard Pegawai](https://user-images.githubusercontent.com/87837561/212535222-29c500c8-7458-42c1-8ade-a9122bf1ec80.png)
