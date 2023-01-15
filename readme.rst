@@ -1,74 +1,62 @@
-Aplikasi Sistem Penggajian Pegawai 
-Mengembangkan Aplikasi berbasis website penggajian karyawan yang dapat mempermudah untuk membuat laporan penggajian. Untuk user ada 2 yaitu admin dan user.
+# Portofolio
+# Aplikasi Sistem Penggajian Pegawai 
+
+<br>
+
+<div align="center">
+    <a href=""><img src="/Images/LogoPhp.png" width="200" hegiht="200" alt="Udinus" title="Optional title"></a>
+</div>
+<a name="readme-top"></a>
+<br>
+
+[![Xampp 3.3.0](https://img.shields.io/badge/xampp-3.3.0-orange.svg)]()
+[![CodeIgniter 3](https://img.shields.io/badge/codeigniter-3-lightsalmon.svg)]()
+[![Visual Code 1.74.3](https://img.shields.io/badge/visualcode-1.74.3-blue.svg)]()
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#database"> Database </a></li> 
+    <li><a href="#demo">Demo</a></li>
+    <li><a href="#author">Author</a></li>
+  </ol>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+Mengembangkan Aplikasi berbasis website penggajian karyawan yang dapat mempermudah untuk membuat laporan penggajian. Untuk user ada 2 yaitu admin dan user
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FEATURES -->
+## Features
+- [x] Master Data meliputi data jabatan dan data pegawai
+- [x] Rekap Data meliputi absensi pegawai, setting potongan gaji, dan data gaji pegawai
+- [x] Laporan
+- [x] Ganti Password
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Database
+Struktur Databse
+
+* Tabel Data Jabatan
+* Tabel Data Pegawai
+* Tabel Data Kehadiran
+* Tabel Data Potongan Gaji
+* Tabel Data Hak Akses
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- DEMO -->
+## Demo
+
+Website Sistem Penggajian Pegwai  
+<br>
+Halaman Login untuk admin dan pegawai
 
 
-###################
-What is CodeIgniter
-###################
-
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
-
-*******************
-Release Information
-*******************
-
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
-
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
-
-*******************
-Server Requirements
-*******************
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
-
-************
-Installation
-************
-
-Please see the `installation section <https://codeigniter.com/user_guide/installation/index.html>`_
-of the CodeIgniter User Guide.
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `User Guide <https://codeigniter.com/docs>`_
--  `Language File Translations <https://github.com/bcit-ci/codeigniter3-translations>`_
--  `Community Forums <http://forum.codeigniter.com/>`_
--  `Community Wiki <https://github.com/bcit-ci/CodeIgniter/wiki>`_
--  `Community Slack Channel <https://codeigniterchat.slack.com>`_
-
-Report security issues to our `Security Panel <mailto:security@codeigniter.com>`_
-or via our `page on HackerOne <https://hackerone.com/codeigniter>`_, thank you.
-
-***************
-Acknowledgement
-***************
-
-The CodeIgniter team would like to thank EllisLab, all the
-contributors to the CodeIgniter project and you, the CodeIgniter user.
+<br>
