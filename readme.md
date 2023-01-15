@@ -35,7 +35,7 @@ Mengembangkan Aplikasi berbasis website penggajian karyawan yang dapat mempermud
 ## Features
 - [x] Master Data meliputi data jabatan dan data pegawai
 - [x] Rekap Data meliputi absensi pegawai, setting potongan gaji, dan data gaji pegawai
-- [x] Laporan meliputi laporan gaji pegawai dan laporan absensi pegawai
+- [x] Laporan meliputi laporan slip gaji pegawai, laporan gaji pegawai dan laporan absensi pegawai
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -47,8 +47,10 @@ Struktur Databse
 * Tabel Data Kehadiran
 * Tabel Data Potongan Gaji
 * Tabel Data Hak Akses
-![DB2](https://user-images.githubusercontent.com/87837561/212535166-9cd23e43-021a-4813-8246-f1c87b1e7a1f.png)
 
+<br>
+
+![DB2](https://user-images.githubusercontent.com/87837561/212535166-9cd23e43-021a-4813-8246-f1c87b1e7a1f.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -78,24 +80,27 @@ Data Pegawai
 
 <br>
 
-Data Absensi Pegawai
+Rekap Data Absensi Pegawai
 ![Data Rekap Absen](https://user-images.githubusercontent.com/87837561/212535338-ca43f4d8-476f-45fc-95e0-599de4317f8a.png)
 
 <br>
 
-Setting Potongan Gaji
+Rekap Setting Potongan Gaji
 ![Setting Potongan Gaji](https://user-images.githubusercontent.com/87837561/212535353-d0cfcfea-bb3e-4917-9911-e41913365e5e.png)
 
 <br>
 
-Data Gaji Pegawai
+Rekap Data Gaji Pegawai
 ![Data Gaji](https://user-images.githubusercontent.com/87837561/212535387-101892ac-fb7f-4a24-93fe-25d39f8f69ad.png)
 
 <br>
 
-Cetak Gaji Pegawai
+Laporan Slip Gaji Pegawai
 ![Slip Gaji 1](https://user-images.githubusercontent.com/87837561/212535410-9fbb589f-48fc-457b-bb1c-fc84cee8db84.png)
 
+<br>
+
+Cetak Slip Laporan Gaji
 
 ![Slip Gaji 2](https://user-images.githubusercontent.com/87837561/212535411-828a24b3-79ea-45fb-9894-30beb5dc3aae.png)
 
@@ -106,8 +111,8 @@ Laporan Gaji Pegawai
 
 <br>
 
-Cetak Laporan Gaji Pegawai
-![Slip Gaji 2](https://user-images.githubusercontent.com/87837561/212535510-0b7aa998-c56b-4dda-ab89-6ba0de6d2a0c.png)
+Cetak Gaji Pegawai
+![Slip Gaji 2](https://user-images.githubusercontent.com/87837561/212536335-b98672ac-044d-4286-bcd0-4e277505e95b.png)
 
 <br>
 
@@ -116,7 +121,7 @@ Laporan Absensi Pegawai
 
 <br>
 
-Cetak Laporan Gaji Pegawai
+Cetak Absensi Gaji Pegawai
 ![Lapor Absen 2](https://user-images.githubusercontent.com/87837561/212535583-7d4408e2-2443-4e5e-9b5b-74f6797f2a56.png)
 
 <br>
