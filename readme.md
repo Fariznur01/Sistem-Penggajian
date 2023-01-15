@@ -37,6 +37,7 @@ Mengembangkan Aplikasi berbasis website penggajian karyawan yang dapat mempermud
 - [x] Master Data meliputi data jabatan dan data pegawai
 - [x] Rekap Data meliputi absensi pegawai, setting potongan gaji, dan data gaji pegawai
 - [x] Laporan meliputi laporan slip gaji pegawai, laporan gaji pegawai dan laporan absensi pegawai
+- [x] Ganti Password
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,6 +127,13 @@ Laporan Absensi Pegawai
 
 Cetak Absensi Gaji Pegawai
 ![Lapor Absen 2](https://user-images.githubusercontent.com/87837561/212535583-7d4408e2-2443-4e5e-9b5b-74f6797f2a56.png)
+
+<br>
+
+Ganti Password
+![Ganti Password](https://user-images.githubusercontent.com/87837561/212542597-2c01ad3b-b8c0-41c7-8ca0-f6f1c9ebc314.png)
+
+<br>
 
 Dashboard Login sebagai Pegawai
 ![Halaman Dashboard Pegawai](https://user-images.githubusercontent.com/87837561/212535222-29c500c8-7458-42c1-8ade-a9122bf1ec80.png)
